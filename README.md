@@ -1,4 +1,11 @@
-# mapbox-all-in-one-rails
+# Mapbox All-In-1 Gem For Rails
+
+## List
+
+* mapbox.js - 1.3.1
+* leaflet.draw.js - 0.2.0-dev
+* wicket
+* wicket-leaflet
 
 ## Installation
 
