@@ -2,8 +2,8 @@
 
 ## List
 
-* mapbox.js - 1.3.1
-* leaflet.draw.js - 0.2.0-dev
+* mapbox.js - 1.5.2
+* leaflet.draw.js - 0.2.3-dev
 * wicket
 * wicket-leaflet
 
